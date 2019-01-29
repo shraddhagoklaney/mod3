@@ -97,8 +97,8 @@ section {
 
 #header-nav {
   border: 0;
-  background-color: #FC5F06;
-  color: #FFFFFF;
+  background-color: #9B9696;
+  
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -110,7 +110,7 @@ section {
 }
 
 .nav-header {
-  background-color: #9B9696;
+  background-color: black;
 }
 
 .nav-brand {
