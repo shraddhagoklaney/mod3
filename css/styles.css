@@ -5,7 +5,7 @@
 }
 
 h1 {
-	font-family: Brushstroke, fantasy;
+	
 	color: #000000;
 }
 
@@ -25,7 +25,7 @@ p {
 
 section {
 	border:	1px solid black;
-	background-color: #C0C0C0;
+	background-color: #808080;
 	width: 100%;
 	height: auto;
 	color: black;
@@ -34,7 +34,7 @@ section {
 }
 
 #chicken {
-	border: 1px solid black;
+	
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
@@ -44,11 +44,11 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #808080;
+	
 }
 
 #beef {
-	border: 1px solid black;
+	
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
@@ -58,11 +58,11 @@ section {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color:#808080;
+	
 }
 
 #sushi {
-	border: 1px solid black;
+	
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
@@ -71,8 +71,6 @@ section {
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color:#808080;
-	color: white;
 	padding: 5px;
 }
 
